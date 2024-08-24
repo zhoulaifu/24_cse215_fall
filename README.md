@@ -60,7 +60,7 @@ Email: \<zhoulai dot fu at sunykorea dot ac dot kr\>
 
 
 
-# Zoom (just in case):
+# Zoom in case:
 
 <https://stonybrook.zoom.us/j/93553126576?pwd=aDBQN1M2V3BUanpHRUtYd0VZbm5YQT09>
 
@@ -68,21 +68,12 @@ Email: \<zhoulai dot fu at sunykorea dot ac dot kr\>
 
 # Numerical Grades
 
--   Homeworks: 30%
--   Midterm1: 20%
--   Midterm2: 20%
--   Final: 30%
--   Students who consistently participate or provide constructive feedback will receive a bonus of  0.5 or 1. Students with three or more class absences will not be eligible for this bonus.
-
-Namely, the numerical grade for the course will be calculated as:
-
-```
-def numerical_grade(Homework, Midterm1, Midterm2, Final, Bonus):
-    return 0.30 * Homework + 0.20 * Midterm1 + 0.20 * Midterm2 + 0.30 * Final + Bonus
-```
-
-
-
+-   Homeworks: 20%
+-   Midterm1: 25%
+-   Midterm2: 25%
+-   Final: 25%
+-   Attendance: 5% 
+-   Bonus: Students who consistently participate or provide constructive feedback will receive a bonus of  0.5 or 1. 
 
 
 
@@ -103,15 +94,37 @@ Absolute grading will be applied:
 - **D:** [63, 67)
 - **F:** [0, 63)
 
+# Force Majeure in Our Policies
+
+Force majeure in our policies includes, but is not limited to, documented illness or family emergencies. A documented hospital visit alone is not sufficient to justify force majeure. The doctor's note must clearly state the reason for the absence and the recommended period of absence.
+
+# Attendance Policy
+
+- Attendance will be checked irregularly.
+- Arriving late will count as half attendance. "Late" is defined as arriving after the attendance check has been completed. After the attendance check, the TA/Instructor will mark any absences.
+- Excuses are granted only in cases of force majeure. See the definition above for "force majeure."
+- In the event of discrepancies between the signed attendance sheet and actual physical presence, names will be called. Students involved may be addressed privately.
+- In accordance with Korean law, more than 20% absence will result in an automatic F grade.
+
 # Grading Policy
 
 - Grading will be conducted by both the TAs and the Instructor.
 - Factual errors in grades will be corrected.
 - Non-factual grade disputes will not be considered.
-- Plagiarism, including the use of AI-generated solutions for homework, will result in a grade of 0 and will be reported.
-- Typewritten submissions are  recommended; illegible handwriting may result in a grade of 0.
-- Late homework will not be accepted. Assignments submitted after the deadline are generally not permissible. If you have a valid reason for late submission, promptly communicate with the course instructor and provide necessary supporting documents. Please note that once homework solutions have been released, no submissions will be accepted under any circumstances.
+- Plagiarism, including the use of AI-generated solutions for homework, will result in a grade of 0 and will be reported. Students involved may be addressed privately.
+- Typewritten submissions are recommended; illegible handwriting may result in a grade of 0.
 
+# Late Homework Policy
+
+Late homework will not be accepted. Assignments submitted after the deadline are only permissible in cases of force majeure. See above for the definition of "force majeure." Once homework solutions have been released, no submissions will be accepted under any circumstances.
+
+# Email Policy
+
+- Please include **[CSE215]** in the subject line for all course-related email communication with the instructor.
+- Use the instructor's SUNY Korea email address (see above) whenever possible.
+- You can expect a reply within 48 hours. If you do not receive a response within this timeframe, kindly send a reminder.
+- Emails without **[CSE215]** in the subject line may be missed.
+  
 # Disability Support Services (DSS) Statement
 
 If you have a physical, psychological, medical or learning disability that may impact your course work, please contact  One-Stop Service Center, Academic Building A201, (82) 32-626-1117. They will determine with you what accommodations, if any, are necessary and appropriate. All information and documentation is confidential.
