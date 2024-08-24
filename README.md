@@ -137,6 +137,11 @@ We adhere to policies similar to those outlined in [Stanford's Generative AI Pol
 - In general, the use of or consultation with generative AI is treated similarly to receiving assistance from another person.
 - Using generative AI tools like ChatGPT to substantially complete homework assignments is not permitted.
 - Students should acknowledge any use of generative AI tools (beyond incidental use) and should default to disclosing such assistance when in doubt.
+
+# Office Hours Policy
+
+- The instructor and TAs will be available during scheduled office hours.
+- Availability outside of office hours is not guaranteed, and the instructor and TAs may respectfully decline appointment requests beyond these times.
   
 # Disability Support Services (DSS) Statement
 
