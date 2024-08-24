@@ -120,7 +120,8 @@ Note: A documented hospital visit alone is not sufficient to justify force majeu
 # Late Homework Policy
 
 - Late homework will not be accepted. 
-- Homeworks submitted after the deadline are only permissible in cases of force majeure. See above for the definition of "force majeure." - - Once homework solutions have been released, no submissions will be accepted under any circumstances.
+- Homeworks submitted after the deadline are only permissible in cases of force majeure. See above for the definition of "force majeure."
+-  Once homework solutions have been released, no submissions will be accepted under any circumstances.
 
 # Email Policy
 
