@@ -94,7 +94,7 @@ Absolute grading will be applied:
 - **D:** [63, 67)
 - **F:** [0, 63)
 
-# Force Majeure in Our Policies
+# Definition of Force Majeure in Our Policies
 
 Force majeure in our policies includes, but is not limited to, documented illness or family emergencies. A documented hospital visit alone is not sufficient to justify force majeure. The doctor's note must clearly state the reason for the absence and the recommended period of absence.
 
@@ -116,14 +116,23 @@ Force majeure in our policies includes, but is not limited to, documented illnes
 
 # Late Homework Policy
 
-Late homework will not be accepted. Assignments submitted after the deadline are only permissible in cases of force majeure. See above for the definition of "force majeure." Once homework solutions have been released, no submissions will be accepted under any circumstances.
+- Late homework will not be accepted. 
+- Homeworks submitted after the deadline are only permissible in cases of force majeure. See above for the definition of "force majeure." - - Once homework solutions have been released, no submissions will be accepted under any circumstances.
 
 # Email Policy
 
 - Please include **[CSE215]** in the subject line for all course-related email communication with the instructor.
 - Use the instructor's SUNY Korea email address (see above) whenever possible.
-- You can expect a reply within 48 hours. If you do not receive a response within this timeframe, kindly send a reminder.
+- You can expect a reply within 72 hours. If you do not receive a response within this timeframe, kindly send a reminder.
 - Emails without **[CSE215]** in the subject line may be missed.
+
+# ChatGPT Policy in Homework Problem Solving
+
+We adhere to policies similar to those outlined in [Stanford's Generative AI Policy Guidance](https://communitystandards.stanford.edu/generative-ai-policy-guidance).
+
+- In general, the use of or consultation with generative AI is treated similarly to receiving assistance from another person.
+- Using generative AI tools like ChatGPT to substantially complete homework assignments is not permitted.
+- Students should acknowledge any use of generative AI tools (beyond incidental use) and should default to disclosing such assistance when in doubt.
   
 # Disability Support Services (DSS) Statement
 
