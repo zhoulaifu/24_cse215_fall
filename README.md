@@ -126,7 +126,7 @@ Force majeure in our policies includes, but is not limited to, documented illnes
 - You can expect a reply within 72 hours. If you do not receive a response within this timeframe, kindly send a reminder.
 - Emails without **[CSE215]** in the subject line may be missed.
 
-# ChatGPT Policy in Homework Problem Solving
+# ChatGPT Policy
 
 We adhere to policies similar to those outlined in [Stanford's Generative AI Policy Guidance](https://communitystandards.stanford.edu/generative-ai-policy-guidance).
 
