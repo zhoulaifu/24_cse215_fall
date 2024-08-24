@@ -39,12 +39,28 @@ Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1s
 - **Recitation:** Monday, 12:30 PM - 1:25 PM, Room C107
 - **Homework:** Announced every Wednesday, with submissions due by the following Wednesday at 11:59 PM KST.
 - **Office Hours:** Mondays, 4:30 PM - 5:30 PM, and Wednesdays, 12:30 PM - 1:25 PM,  Room C107.
+- **TA office hours:**  TBA
 
-# TA office hours
+# Instructor
 
-TBA
+**Zhoulai Fu**  
+Email: \<zhoulai dot fu at sunykorea dot ac dot kr\>  
 
-# Zoom (just in case):
+# Teaching Assistants (TAs)
+
+1. **Jinsol Jung**  
+   Email: \<jinsol dot jung at stonybrook dot edu\>
+
+2. **Farouk Sadqi**  
+   Email: \<farouk dot sadqi at stonybrook dot edu\>
+
+3. **Yoora Kim**  
+   Email: \<yoora dot kim at stonybrook dot edu\>
+
+
+
+
+# Zoom in case:
 
 <https://stonybrook.zoom.us/j/93553126576?pwd=aDBQN1M2V3BUanpHRUtYd0VZbm5YQT09>
 
@@ -52,21 +68,12 @@ TBA
 
 # Numerical Grades
 
--   Homeworks: 30%
--   Midterm1: 20%
--   Midterm2: 20%
--   Final: 30%
--   Students who consistently participate or provide constructive feedback will receive a bonus of  0.5 or 1. Students with three or more class absences will not be eligible for this bonus.
-
-Namely, the numerical grade for the course will be calculated as:
-
-```
-def numerical_grade(Homework, Midterm1, Midterm2, Final, Bonus):
-    return 0.30 * Homework + 0.20 * Midterm1 + 0.20 * Midterm2 + 0.30 * Final + Bonus
-```
-
-
-Assignments submitted after the deadline are typically not acceptable. Should you have a valid reason for a late submission, it is essential to communicate with the course instructor promptly, providing all necessary supporting documents. Please note, once solutions to the homework exercises have been disclosed, no submissions can be accepted under any circumstances.
+-   Homeworks: 20%
+-   Midterm1: 25%
+-   Midterm2: 25%
+-   Final: 25%
+-   Attendance: 5% 
+-   Bonus: Students who consistently participate or provide constructive feedback will receive a bonus of  0.5 or 1. 
 
 
 
@@ -87,13 +94,55 @@ Absolute grading will be applied:
 - **D:** [63, 67)
 - **F:** [0, 63)
 
+# Definition of Force Majeure in Our Policies
 
-# Instructor
+Force majeure in our policies includes, but is not limited to,  
+- documented illness or family emergencies.
 
-Zhoulai Fu \<zhoulai dot fu at sunykorea.ac.kr\>  or  \<zhoulai dot fu at stonybrook.edu\>
+Note: A documented hospital visit alone is not sufficient to justify force majeure. The doctor's note must clearly state the reason for the absence and the recommended period of absence.
 
+# Attendance Policy
 
+- Attendance will be checked irregularly.
+- Arriving late will count as half attendance. "Late" is defined as arriving after the attendance check has been completed. After the attendance check, the TA/Instructor will mark any absences.
+- Excuses are granted only in cases of force majeure. See the definition above for "force majeure."
+- In the event of discrepancies between the signed attendance sheet and actual physical presence, names will be called. Students involved may be addressed privately.
+- In accordance with Korean law, more than 20% absence will result in an automatic F grade.
 
+# Grading Policy
+
+- Grading will be conducted by both the TAs and the Instructor.
+- Factual errors in grades will be corrected.
+- Non-factual grade disputes will not be considered.
+- Plagiarism, including the use of AI-generated solutions for homework, will result in a grade of 0 and will be reported. Students involved may be addressed privately.
+- Typewritten submissions are recommended; illegible handwriting may result in a grade of 0.
+
+# Late Homework Policy
+
+- Late homework will not be accepted. 
+- Homeworks submitted after the deadline are only permissible in cases of force majeure. See above for the definition of "force majeure."
+-  Once homework solutions have been released, no submissions will be accepted under any circumstances.
+
+# Email Policy
+
+- Please include **[CSE215]** in the subject line for all course-related email communication with the instructor.
+- Use the instructor's SUNY Korea email address (see above) whenever possible.
+- You can expect a reply within 72 hours. If you do not receive a response within this timeframe, kindly send a reminder.
+- Emails without **[CSE215]** in the subject line may be missed.
+
+# ChatGPT Policy
+
+We adhere to policies similar to those outlined in [Stanford's Generative AI Policy Guidance](https://communitystandards.stanford.edu/generative-ai-policy-guidance).
+
+- In general, the use of or consultation with generative AI is treated similarly to receiving assistance from another person.
+- Using generative AI tools like ChatGPT to substantially complete homework assignments is not permitted.
+- Students should acknowledge any use of generative AI tools (beyond incidental use) and should default to disclosing such assistance when in doubt.
+
+# Office Hours Policy
+
+- The instructor and TAs will be available during scheduled office hours.
+- Availability outside of office hours is not guaranteed, and the instructor and TAs may respectfully decline appointment requests beyond these times.
+  
 # Disability Support Services (DSS) Statement
 
 If you have a physical, psychological, medical or learning disability that may impact your course work, please contact  One-Stop Service Center, Academic Building A201, (82) 32-626-1117. They will determine with you what accommodations, if any, are necessary and appropriate. All information and documentation is confidential.
