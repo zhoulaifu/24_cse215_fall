@@ -38,7 +38,7 @@ Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1s
 - **Lectures:** Mondays and Wednesdays, 10:30 AM - 11:50 AM, Room C107
 - **Recitation:** Monday, 12:30 PM - 1:25 PM, Room C107
 - **Homework:** Announced every Wednesday, with submissions due by the following Wednesday at 11:59 PM KST.
-- **Office Hours:** Mondays, 4:30 PM - 5:30 PM, and Wednesdays, 12:30 PM - 1:25 PM,  Room C107.
+- **Office Hours:** Mondays, 4:30 PM - 5:30 PM, and Wednesdays, 12:30 PM - 1:25 PM,  Room B424.
 - **TA office hours:**  TBA
 
 # Instructor
