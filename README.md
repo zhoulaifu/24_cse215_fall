@@ -39,10 +39,26 @@ Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1s
 - **Recitation:** Monday, 12:30 PM - 1:25 PM, Room C107
 - **Homework:** Announced every Wednesday, with submissions due by the following Wednesday at 11:59 PM KST.
 - **Office Hours:** Mondays, 4:30 PM - 5:30 PM, and Wednesdays, 12:30 PM - 1:25 PM,  Room C107.
+- **TA office hours:**  TBA
 
-# TA office hours
+# Instructor
 
-TBA
+**Zhoulai Fu**  
+Email: \<zhoulai dot fu at sunykorea dot ac dot kr\>  
+
+# Teaching Assistants (TAs)
+
+1. **Jinsol Jung**  
+   Email: \<jinsol dot jung at stonybrook dot edu\>
+
+2. **Farouk Sadqi**  
+   Email: \<farouk dot sadqi at stonybrook dot edu\>
+
+3. **Yoora Kim**  
+   Email: \<yoora dot kim at stonybrook dot edu\>
+
+
+
 
 # Zoom (just in case):
 
@@ -87,10 +103,6 @@ Absolute grading will be applied:
 - **D:** [63, 67)
 - **F:** [0, 63)
 
-
-# Instructor
-
-Zhoulai Fu \<zhoulai dot fu at sunykorea.ac.kr\>  or  \<zhoulai dot fu at stonybrook.edu\>
 
 
 
