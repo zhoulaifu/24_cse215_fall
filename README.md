@@ -96,7 +96,10 @@ Absolute grading will be applied:
 
 # Definition of Force Majeure in Our Policies
 
-Force majeure in our policies includes, but is not limited to, documented illness or family emergencies. A documented hospital visit alone is not sufficient to justify force majeure. The doctor's note must clearly state the reason for the absence and the recommended period of absence.
+Force majeure in our policies includes, but is not limited to,  
+- documented illness or family emergencies.
+
+Note: A documented hospital visit alone is not sufficient to justify force majeure. The doctor's note must clearly state the reason for the absence and the recommended period of absence.
 
 # Attendance Policy
 
