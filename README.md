@@ -82,7 +82,7 @@ def numerical_grade(Homework, Midterm1, Midterm2, Final, Bonus):
 ```
 
 
-Assignments submitted after the deadline are typically not acceptable. Should you have a valid reason for a late submission, it is essential to communicate with the course instructor promptly, providing all necessary supporting documents. Please note, once solutions to the homework exercises have been disclosed, no submissions can be accepted under any circumstances.
+
 
 
 
@@ -103,8 +103,14 @@ Absolute grading will be applied:
 - **D:** [63, 67)
 - **F:** [0, 63)
 
+# Grading Policy
 
-
+- Grading will be conducted by both the TAs and the Instructor.
+- Factual errors in grades will be corrected.
+- Non-factual grade disputes will not be considered.
+- Plagiarism, including the use of AI-generated solutions for homework, will result in a grade of 0 and will be reported.
+- Typewritten submissions are  recommended; illegible handwriting may result in a grade of 0.
+- Late homework will not be accepted. Assignments submitted after the deadline are generally not permissible. If you have a valid reason for late submission, promptly communicate with the course instructor and provide necessary supporting documents. Please note that once homework solutions have been released, no submissions will be accepted under any circumstances.
 
 # Disability Support Services (DSS) Statement
 
